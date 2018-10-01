@@ -1,3 +1,5 @@
+// added git.ingnore File
+
 project-root-directory/
 + nbproject/
   build-impl.xml
